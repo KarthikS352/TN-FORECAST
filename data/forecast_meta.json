@@ -1,0 +1,14 @@
+{
+  "last_updated": "2026-04-13 07:18:47",
+  "forecast_start": "2026-04-01",
+  "forecast_end": "2026-06-30",
+  "total_hours": 2184,
+  "april_avg_mw": 17853.5,
+  "may_avg_mw": 17222.9,
+  "june_avg_mw": 16051.9,
+  "peak_mw": 19340.3,
+  "model_mape": 4.05,
+  "model_r2": 0.8397,
+  "model_mae": 617.7,
+  "model_rmse": 820.8
+}
