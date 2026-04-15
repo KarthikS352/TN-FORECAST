@@ -17,7 +17,7 @@ st.set_page_config(page_title="TN Load Forecasting", page_icon="⚡", layout="wi
 # CONFIG
 # ================================================================
 GITHUB_USER   = "KarthikS352"
-GITHUB_REPO   = "TN-LOAD-FORECAST"
+GITHUB_REPO   = "TN-FORECAST"
 GITHUB_BRANCH = "main"
 GITHUB_RAW    = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/results"
 
